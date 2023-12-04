@@ -1,4 +1,4 @@
-## <[**Mars Analysis Project**]>
+## <**Mars Scraper Project**>
 
 **Overview**
 The Mars Analysis project is a comprehensive exploration and analysis of data related to Mars, focusing on two main deliverables.
